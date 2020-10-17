@@ -1,0 +1,9 @@
+/Users/Fer/workspace-java/motorbike-service/src/main/java/dev/fvila/motorbike/MotorbikeServiceApplication.java
+/Users/Fer/workspace-java/motorbike-service/src/main/java/dev/fvila/motorbike/controllers/MotorbikeController.java
+/Users/Fer/workspace-java/motorbike-service/src/main/java/dev/fvila/motorbike/models/Brand.java
+/Users/Fer/workspace-java/motorbike-service/src/main/java/dev/fvila/motorbike/services/MotorbikeService.java
+/Users/Fer/workspace-java/motorbike-service/src/main/java/dev/fvila/motorbike/controllers/BrandsController.java
+/Users/Fer/workspace-java/motorbike-service/src/main/java/dev/fvila/motorbike/repositories/MotorbikeRepository.java
+/Users/Fer/workspace-java/motorbike-service/src/main/java/dev/fvila/motorbike/dto/MotorbikeDTO.java
+/Users/Fer/workspace-java/motorbike-service/src/main/java/dev/fvila/motorbike/models/Motorbike.java
+/Users/Fer/workspace-java/motorbike-service/src/main/java/dev/fvila/motorbike/configurations/ModelMapperConfig.java
