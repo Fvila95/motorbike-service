@@ -16,4 +16,13 @@ public class Motorbike {
     private Integer releaseYear;
     @Enumerated(EnumType.STRING)
     private Brand brand;
+    private String chasis;
+    private int potencia;
+    private double torque;
+    private int rodado;
+    private int marchas;
+    private double preciousd = 183;
+
+    
+
 }
