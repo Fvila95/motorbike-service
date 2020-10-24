@@ -15,9 +15,9 @@ public class MotorbikeDTO {
     private Integer releaseYear;
     private Brand brand;
     private String chasis;
-    private int potencia;
+    private Integer potence;
     private double torque;
-    private int rodado;
-    private int marchas;
+    private Integer WheelSize;
+    private Integer gear;
     private double precioarg;
 }
