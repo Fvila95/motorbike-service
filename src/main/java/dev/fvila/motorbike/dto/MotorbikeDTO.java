@@ -14,7 +14,7 @@ public class MotorbikeDTO {
     @JsonProperty(value = "release_year")
     private Integer releaseYear;
     private Brand brand;
-    private String chasis;
+    private String chassis;
     private Integer potence;
     private double torque;
     private Integer WheelSize;
