@@ -16,4 +16,13 @@ public class Motorbike {
     private Integer releaseYear;
     @Enumerated(EnumType.STRING)
     private Brand brand;
+    private String chassis;
+    private Integer potence;
+    private Double torque;
+    @Column(name = "wheel_size")
+    private Integer wheelSize;
+    private Integer gear;
+    @Column(name = "usd_price")
+    private Double usdPrice;
+
 }
