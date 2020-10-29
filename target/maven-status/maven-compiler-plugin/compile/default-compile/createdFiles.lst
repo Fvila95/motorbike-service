@@ -1,0 +1,9 @@
+dev\fvila\motorbike\controllers\BrandsController.class
+dev\fvila\motorbike\models\Motorbike.class
+dev\fvila\motorbike\services\MotorbikeService.class
+dev\fvila\motorbike\configurations\ModelMapperConfig.class
+dev\fvila\motorbike\models\Brand.class
+dev\fvila\motorbike\MotorbikeServiceApplication.class
+dev\fvila\motorbike\controllers\MotorbikeController.class
+dev\fvila\motorbike\repositories\MotorbikeRepository.class
+dev\fvila\motorbike\dto\MotorbikeDTO.class
