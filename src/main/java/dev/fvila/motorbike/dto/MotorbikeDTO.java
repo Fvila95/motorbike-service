@@ -16,10 +16,11 @@ public class MotorbikeDTO {
     private Brand brand;
     private String chassis;
     private Integer potence;
-    private double torque;
+    private Double torque;
     private Integer WheelSize;
     private Integer gear;
-    private double precioarg;
+    @JsonProperty(value = "ars_price")
+    private Double arsPrice;
 
     public String getModel() {
         return model;
@@ -85,11 +86,11 @@ public class MotorbikeDTO {
         this.gear = gear;
     }
 
-    public double getPrecioarg() {
-        return precioarg;
+    public double getarsPrice() {
+        return arsPrice;
     }
 
-    public void setPrecioarg(double precioarg) {
-        this.precioarg = precioarg;
+    public void setArsPrice(double arsPrice) {
+        this.arsPrice = arsPrice;
     }
 }
